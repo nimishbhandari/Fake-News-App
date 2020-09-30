@@ -7,7 +7,7 @@ Fake News is different from satirical sites like "The Onion', a humor-based webs
 Fake News stories usually spread through social media sites like Facebook, Twitter and Reddit.
 Often, fake news will mimic real headlines and twist the story.
 
-Detecting Fake News
+Detecting Fake News:
 
 As human beings, when we read a sentence or a paragraph, we can interpret the words with the whole document and understand the context.
 
